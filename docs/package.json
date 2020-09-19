@@ -1,0 +1,19 @@
+{
+  "name": "docs-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Bayram",
+    "email": "bayram.bani@gmail.com"
+  },
+  "repository": "https://github.com/BayramBani/docs-starter.git/docs-starter",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
